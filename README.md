@@ -1,2 +1,2 @@
 # daemonicdev.github.io
-Repo for URL shortener
+Welcome to my blog site.
